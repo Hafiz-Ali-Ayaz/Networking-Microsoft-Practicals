@@ -9,7 +9,7 @@ Folder Structure:
 - **CCNP-Labs/**: Advanced networking concepts and topologies.
 - **MCSA-Labs/**: System administration and virtualization setups.
 <br>
-I'm currently learning Microsoft Azure Administrator (AZ-104) and DevOps to advance my skill set, align with industry standards, and stay ahead in meeting the evolving demands of modern trends. My goal is to build a strong reputation in the industry and increase my value, ensuring long-term growth and success.
+I'm currently learning **Microsoft Azure Administrator (AZ-104)** and **DevOps** to advance my skill set, align with industry standards, and stay ahead in meeting the evolving demands of modern trends. My goal is to build a strong reputation in the industry and increase my value, ensuring long-term growth and success.
 <br> <br>
 Feel free to explore each folder and download files for review. <br>
 Thanks for your time!
