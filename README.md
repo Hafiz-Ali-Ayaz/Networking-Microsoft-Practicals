@@ -1,4 +1,4 @@
-Networking Practicals Repository
+Networking Practicals Repository <br>
 This repository contains hands-on practicals and configurations for: 
 - **CCNA Labs**: VLANs, OSPF, ACLs, and network troubleshooting.
 - **CCNP Labs**: MPLS, VPN, QoS, and advanced routing protocols.
